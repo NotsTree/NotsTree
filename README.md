@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SushiiNaniilol
+- 👋 Hi, I’m @NotsTree
 - 👀 I’m interested in Developing video games and apps 
 - 💬 Feel free to contact me
 <!---
