@@ -20,4 +20,4 @@
 - Git
 
 📫 Connect With Me
-LinkedIn: (link)
+LinkedIn: www.linkedin.com/in/shreeshail-nepal-1823b6297
