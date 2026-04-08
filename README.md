@@ -12,7 +12,7 @@
 - 🤖 AI-powered apps
 
 🛠 Tech Stack
-- Python
+- Python https://img.shields.io/badge/Python-blue
 - JavaScript
 - React
 - Node.js
